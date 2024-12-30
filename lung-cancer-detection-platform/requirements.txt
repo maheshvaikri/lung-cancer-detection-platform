@@ -1,0 +1,23 @@
+# Core Python Dependencies
+flask==2.1.0
+flask-jwt-extended==4.4.0
+flask-cors==3.0.10
+tensorflow==2.9.0
+numpy==1.22.3
+pandas==1.4.2
+scikit-learn==1.1.0
+cryptography==3.4.7
+pyyaml==6.0
+requests==2.27.1
+
+# Privacy and Security
+python-jose==3.3.0
+bcrypt==3.2.0
+
+# Development and Testing
+pytest==7.1.1
+coverage==6.3.2
+mypy==0.950
+
+# Logging
+python-json-logger==2.0.2
